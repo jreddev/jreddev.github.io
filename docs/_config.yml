@@ -30,7 +30,7 @@ twitter_username:
 github_username:  jreddev
 
 # Build settings
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
